@@ -41,6 +41,15 @@ const quotes = [
   },
   {
     quote: "Ruby is rubbish! PHP is phpantastic! 🤣"
+  },
+  {
+    quote: "No one is master something is missing"
+  },
+  {
+    quote: "Bug is the Step to Success."
+  },
+  {
+    quote: "Programming is the Best on Working."
   }
 ];
 
